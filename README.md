@@ -31,7 +31,7 @@ JavaScript adalah bahasa pemograman tingkat tinggi yang digunakan terutama unutk
 # Sumber Data
 - https://bse.telkomuniversity.ac.id/pengertian-javascript-bahasa-pemrograman-untuk-web-modern/#:~:text=Apa%20itu%20JavaScript?,bersama%20dengan%20HTML%20dan%20CSS
 - https://www.nobledesktop.com/learn/javascript/industries-and-professions#:~:text=Major%20companies%20like%20eBay%2C%20Netflix,uninterrupted%20and%20satisfactory%20customer%20interactions
-- (link kelebihan dan kekurangan)
+- https://msbu.co.id/blog/apa-itu-javascript-fungsi-kelebihan-dan-kekurangannya
 - (link tren)
 - https://www.baliwebdesign.co.id/contoh-website-javascript/
 
