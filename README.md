@@ -13,6 +13,8 @@ JavaScript adalah bahasa pemograman tingkat tinggi yang digunakan terutama unutk
 2. Keterbatasan objek yang dapat digunakan. Hal ini dapat memengaruhi fitur-fitur yang tersedia dalam bahasa pemograman.
 3. Tidak cocok unutk pengembangan Standalone App yang berdiri sendiri.
 ## Tren Perkembangan JavaScript Tahun 2025
+
+ Berikut ini beberapa framework JavaScript di tahun 2025 :
 1. React: Fitur-fitur yang ditawarkan terys berkembang, ditambah dengan komunitasnya yang besar, membuat react menjadi pilihan favorit oleh banyak developer.
 2. Vue.js: Framework yang mudah dipejari dan fleksibel.
 3. Svelte: Framework yang saat ini lagi naik daun. Svelte mempunyai pendekatan yang uni, dimana sebagian besar pekerjaan kompilasi dilakukan saat build time, bukan saat runtime. Hasilnya, aplikasi yang dibangun dengan Svelte biasanya lebih cepat dan ringan.
